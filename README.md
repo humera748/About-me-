@@ -11,7 +11,7 @@ I enjoy learning programming and working with data.
 
 ## Data Skills
 - SQL
-- Exploratory Data Analysis (EDA)
+- Data Analysis 
 - Machine Learning 
 
 ## Python Libraries
@@ -25,6 +25,7 @@ I enjoy learning programming and working with data.
 - Data Wrangling
 - Machine Learning
 - Data Analysis using Python
+- DataBase Management System
 
 ## Interests
 - Data Science
